@@ -1,1 +1,1 @@
-# estudy-uidesign
+# study-uidesign
